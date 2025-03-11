@@ -1,0 +1,10 @@
+# Ignore all CSV files
+# download from: https://github.com/dadepro/fake_review_detection/tree/main
+*.csv
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore specific folders
+data/network/Network.txt
+#download from: https://ubcca-my.sharepoint.com/:t:/r/personal/leyao_tan_ubc_ca/Documents/Research/%5BFake%20Reviewer%20Community%5D/Network.txt?csf=1&web=1&e=AbrZaF
